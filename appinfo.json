@@ -1,0 +1,49 @@
+{
+    "appKeys": {
+        "WEATHER_CITY_KEY": 2,
+        "WEATHER_ICON_KEY": 0,
+        "WEATHER_TEMPERATURE_KEY": 1
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "CriaLabs",
+    "longName": "O tempo",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/sun.png",
+                "menuIcon": true,
+                "name": "IMAGE_SUN",
+                "type": "png"
+            },
+            {
+                "file": "images/snow.png",
+                "name": "IMAGE_SNOW",
+                "type": "png"
+            },
+            {
+                "file": "images/rain.png",
+                "name": "IMAGE_RAIN",
+                "type": "png"
+            },
+            {
+                "file": "images/cloud.png",
+                "name": "IMAGE_CLOUD",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "O tempo",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "74460383-8a0f-4bb6-971f-8937c2ed4441",
+    "versionLabel": "2.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
